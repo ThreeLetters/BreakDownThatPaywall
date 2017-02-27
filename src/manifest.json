@@ -1,0 +1,18 @@
+{
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "description": "Break down those Fing paywalls",
+    "manifest_version": 2,
+    "name": "Break down that paywall",
+    "short_name": "BDTP",
+    "permissions": [
+        "cookies",
+        "storage",
+        "webRequest",
+        "webRequestBlocking"
+    ],
+    "version": "0.0.1"
+}
